@@ -1,0 +1,13 @@
+{
+    "tasks": {
+        "file_organizer": true,
+        "excel_parser": true,
+        "email_alerts": false,
+        "system_cleanup": false
+    },
+    "paths": {
+        "downloads": "C:/Users/yourname/Downloads",
+        "excel_file": "C:/Users/yourname/data.xlsx",
+        "cleanup_target": "C:/Users/yourname/temp"
+    }
+}
